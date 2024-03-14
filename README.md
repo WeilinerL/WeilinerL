@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-Express-eee?style=flat&logo=express&logoColor=444">
 </div>
 <div align="center">
-  <a href="https://me.crecode.cn"><img src="https://img.shields.io/badge/Blog-掘金-blue" /></a>
+  <a href="http://me.crecode.cn"><img src="https://img.shields.io/badge/Blog-掘金-blue" /></a>
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=WeilinerL&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
