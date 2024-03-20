@@ -50,7 +50,7 @@
 - 📫 How to reach me? Email: 2207284210@qq.com
 
 <!-- 活动 -->
-<h3 align="center">My articles, Continually updating.</h3>
+<h3 align="center">My articles, Continually updating...</h3>
 <table align="center">
     <!-- posts start -->
     <ul>
